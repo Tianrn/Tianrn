@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Tianrn
+- 👀 I’m interested in JAVA and c
+- 🌱 I’m currently learning web
